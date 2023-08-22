@@ -16,4 +16,5 @@ This repository hosts an ongoing e-commerce web application project that aims to
 ## Getting Started
 
 1. **Clone the repository:**
+2. 
    git clone  https://github.com/SolankiBhautik/Trendify.git
